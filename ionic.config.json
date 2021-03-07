@@ -1,0 +1,7 @@
+{
+  "name": "oximetro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
