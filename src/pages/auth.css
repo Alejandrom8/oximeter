@@ -1,0 +1,9 @@
+.content {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.content .floating-div {
+    width: 80%;
+}
